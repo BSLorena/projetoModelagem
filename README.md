@@ -1,5 +1,5 @@
 # projetoModelagem
-BSI SPORTS
+BSI SPORTS \n
 Projeto desenvolvido para a disciplina de Modelagem de Sistemas. O objetivo é criar uma aplicação desktop que permita o registro e a configuração de perfis de usuários com foco em esportes, utilizando conceitos de banco de dados e interface gráfica.
 
 Descrição do Projeto
