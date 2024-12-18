@@ -1,5 +1,5 @@
 # projetoModelagem
-BSI SPORTS \n
+# BSI SPORTS #
 Projeto desenvolvido para a disciplina de Modelagem de Sistemas. O objetivo é criar uma aplicação desktop que permita o registro e a configuração de perfis de usuários com foco em esportes, utilizando conceitos de banco de dados e interface gráfica.
 
 Descrição do Projeto
@@ -34,27 +34,24 @@ Python 3.10 ou superior instalado.
 Editor de texto ou IDE (ex.: VSCode, PyCharm).
 Clone o Repositório:
 
-bash
-Copiar código
 git clone <URL_DO_REPOSITÓRIO>
 cd <PASTA_DO_PROJETO>
 Execute o Projeto:
 No terminal, execute o seguinte comando:
 
-bash
-Copiar código
-python main.py
+
+#python main.py
 Interaja com a Aplicação:
 
 Registre-se com um e-mail e senha.
 Configure seu perfil esportivo.
 Estrutura do Projeto
-bash
-Copiar código
-.
+
 ├── main.py       # Código principal do projeto
 ├── users.db      # Banco de dados SQLite (gerado automaticamente)
 └── README.md     # Arquivo de documentação
+
+
 Casos de Uso
 Caso de Uso 001: Registro de Usuários
 O sistema permite o registro de novos usuários, garantindo que:
